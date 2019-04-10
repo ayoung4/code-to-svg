@@ -4,14 +4,25 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "start": "node ./dist/bundle.js ./input"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "fluture": "^11.0.1",
     "fs": "0.0.1-security",
+    "path": "^0.12.7",
     "ramda": "^0.26.1",
     "simple-svg-tools": "^1.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.2",
+    "@types/ramda": "^0.26.6",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.3",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-node-externals": "^1.7.2"
   }
 }
