@@ -1,19 +1,19 @@
 import { ExportSVG, SVG } from 'simple-svg-tools';
 import * as Future from 'fluture';
 
-import { Configuration } from './constants';
+import { Configuration } from '../constants';
+
+const HTML_SAFE_CHARS: { [k: string]: string } = {
+    '<': 'lt',
+    '>': 'gt',
+    '"': 'quot',
+    '\'': 'apos',
+    '&': 'amp',
+    '\r': '#10',
+    '\n': '#13'
+};
 
 export const init = ({ lineHeight, width }: Configuration) => {
-
-    const HTML_SAFE_CHARS: { [k: string]: string } = {
-        '<': 'lt',
-        '>': 'gt',
-        '"': 'quot',
-        '\'': 'apos',
-        '&': 'amp',
-        '\r': '#10',
-        '\n': '#13'
-    };
 
     const wrap = (w: number, h: number, lines: string[]) => [
         `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 ${w} ${h}'>`,

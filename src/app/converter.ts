@@ -1,7 +1,7 @@
 import * as R from 'ramda';
 import * as Future from 'fluture';
 
-import { Configuration } from './constants';
+import { Configuration } from '../constants';
 import { readDirectory, readFile } from './fs';
 import * as SVG from './svg';
 
@@ -20,14 +20,14 @@ export const init = (config: Configuration) => {
                 R.tap(() => console.log(`saved ${filename}.svg`)),
             );
 
-    const createFilepath = (path: string) => (name: string) => path + '/' + name;
+    const createFilepath = (name: string) => dirpath + '/' + name;
 
     const convertFiles = (filepaths: string[]) =>
         Future.parallel(maxParallelism, R.map(convertFile, filepaths));
 
     return {
         convertDirectory: readDirectory(dirpath)
-            .map(R.map(createFilepath(dirpath)) as any)
+            .map(R.map(createFilepath) as any)
             .chain(convertFiles as any),
     };
 

@@ -1,27 +1,10 @@
 import * as R from 'ramda';
 
-import * as Convert from './convert';
+import { createApp } from './app';
 import { CONFIG } from './constants';
 
-(function () {
+const usage = { run: () => console.log('could not start') as any };
 
-    const { convertDirectory } = Convert.init({
-        ...CONFIG,
-        dirpath: process.argv[2]
-    });
-
-    if (process.argv.length < 3) {
-
-        console.log('Usage: node ' + process.argv[1] + ' FILENAME');
-        process.exit(1);
-
-    } else {
-
-        convertDirectory.fork(
-            R.partial(console.log, ['some files failed to convert\n']),
-            R.identity,
-        )
-
-    }
-
-})();
+createApp(process, CONFIG)
+    .orJust(usage)
+    .run();
