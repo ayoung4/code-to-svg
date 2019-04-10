@@ -5,7 +5,7 @@ export type Configuration = {
     dirpath: string
 };
 
-export const CONFIG: Configuration = {
+export const DEFAULTS: Configuration = {
     lineHeight: 20,
     width: 1000,
     maxParallelism: 10,

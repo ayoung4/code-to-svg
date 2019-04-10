@@ -1,10 +1,12 @@
 import * as R from 'ramda';
 
-import { createApp } from './app';
-import { CONFIG } from './constants';
+import * as App from './app';
+import { DEFAULTS } from './constants';
 
-const usage = { run: () => console.log('could not start') as any };
+const usage = {
+    run: R.partial(console.log, ['usage: index [dirname]']),
+};
 
-createApp(process, CONFIG)
-    .orJust(usage)
+App.init(process, DEFAULTS)
+    .orJust(usage as any)
     .run();

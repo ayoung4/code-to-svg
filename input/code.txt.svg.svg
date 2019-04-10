@@ -1,0 +1,2855 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 6360" width="1000" height="6360">
+
+        
+        <text x="20" y="20" style="font-family:courier; white-space: pre">
+          1
+        </text>
+        
+        <text x="65" y="20" style="font-family:courier; white-space: pre">
+        &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 1000 720&quot; width=&quot;1000&quot; height=&quot;720&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="40" style="font-family:courier; white-space: pre">
+          2
+        </text>
+        
+        <text x="65" y="40" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="60" style="font-family:courier; white-space: pre">
+          3
+        </text>
+        
+        <text x="65" y="60" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="80" style="font-family:courier; white-space: pre">
+          4
+        </text>
+        
+        <text x="65" y="80" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;20&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="100" style="font-family:courier; white-space: pre">
+          5
+        </text>
+        
+        <text x="65" y="100" style="font-family:courier; white-space: pre">
+                  1
+        </text>
+
+        
+        <text x="20" y="120" style="font-family:courier; white-space: pre">
+          6
+        </text>
+        
+        <text x="65" y="120" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="140" style="font-family:courier; white-space: pre">
+          7
+        </text>
+        
+        <text x="65" y="140" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="160" style="font-family:courier; white-space: pre">
+          8
+        </text>
+        
+        <text x="65" y="160" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;20&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="180" style="font-family:courier; white-space: pre">
+          9
+        </text>
+        
+        <text x="65" y="180" style="font-family:courier; white-space: pre">
+                import * as R from &amp;apos;ramda&amp;apos;;
+        </text>
+
+        
+        <text x="20" y="200" style="font-family:courier; white-space: pre">
+         10
+        </text>
+        
+        <text x="65" y="200" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="220" style="font-family:courier; white-space: pre">
+         11
+        </text>
+        
+        <text x="65" y="220" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="240" style="font-family:courier; white-space: pre">
+         12
+        </text>
+        
+        <text x="65" y="240" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="260" style="font-family:courier; white-space: pre">
+         13
+        </text>
+        
+        <text x="65" y="260" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;40&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="280" style="font-family:courier; white-space: pre">
+         14
+        </text>
+        
+        <text x="65" y="280" style="font-family:courier; white-space: pre">
+                  2
+        </text>
+
+        
+        <text x="20" y="300" style="font-family:courier; white-space: pre">
+         15
+        </text>
+        
+        <text x="65" y="300" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="320" style="font-family:courier; white-space: pre">
+         16
+        </text>
+        
+        <text x="65" y="320" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="340" style="font-family:courier; white-space: pre">
+         17
+        </text>
+        
+        <text x="65" y="340" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;40&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="360" style="font-family:courier; white-space: pre">
+         18
+        </text>
+        
+        <text x="65" y="360" style="font-family:courier; white-space: pre">
+                import * as Future from &amp;apos;fluture&amp;apos;;
+        </text>
+
+        
+        <text x="20" y="380" style="font-family:courier; white-space: pre">
+         19
+        </text>
+        
+        <text x="65" y="380" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="400" style="font-family:courier; white-space: pre">
+         20
+        </text>
+        
+        <text x="65" y="400" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="420" style="font-family:courier; white-space: pre">
+         21
+        </text>
+        
+        <text x="65" y="420" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="440" style="font-family:courier; white-space: pre">
+         22
+        </text>
+        
+        <text x="65" y="440" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;60&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="460" style="font-family:courier; white-space: pre">
+         23
+        </text>
+        
+        <text x="65" y="460" style="font-family:courier; white-space: pre">
+                  3
+        </text>
+
+        
+        <text x="20" y="480" style="font-family:courier; white-space: pre">
+         24
+        </text>
+        
+        <text x="65" y="480" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="500" style="font-family:courier; white-space: pre">
+         25
+        </text>
+        
+        <text x="65" y="500" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="520" style="font-family:courier; white-space: pre">
+         26
+        </text>
+        
+        <text x="65" y="520" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;60&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="540" style="font-family:courier; white-space: pre">
+         27
+        </text>
+        
+        <text x="65" y="540" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="560" style="font-family:courier; white-space: pre">
+         28
+        </text>
+        
+        <text x="65" y="560" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="580" style="font-family:courier; white-space: pre">
+         29
+        </text>
+        
+        <text x="65" y="580" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="600" style="font-family:courier; white-space: pre">
+         30
+        </text>
+        
+        <text x="65" y="600" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="620" style="font-family:courier; white-space: pre">
+         31
+        </text>
+        
+        <text x="65" y="620" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;80&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="640" style="font-family:courier; white-space: pre">
+         32
+        </text>
+        
+        <text x="65" y="640" style="font-family:courier; white-space: pre">
+                  4
+        </text>
+
+        
+        <text x="20" y="660" style="font-family:courier; white-space: pre">
+         33
+        </text>
+        
+        <text x="65" y="660" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="680" style="font-family:courier; white-space: pre">
+         34
+        </text>
+        
+        <text x="65" y="680" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="700" style="font-family:courier; white-space: pre">
+         35
+        </text>
+        
+        <text x="65" y="700" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;80&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="720" style="font-family:courier; white-space: pre">
+         36
+        </text>
+        
+        <text x="65" y="720" style="font-family:courier; white-space: pre">
+                import { Configuration } from &amp;apos;../constants&amp;apos;;
+        </text>
+
+        
+        <text x="20" y="740" style="font-family:courier; white-space: pre">
+         37
+        </text>
+        
+        <text x="65" y="740" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="760" style="font-family:courier; white-space: pre">
+         38
+        </text>
+        
+        <text x="65" y="760" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="780" style="font-family:courier; white-space: pre">
+         39
+        </text>
+        
+        <text x="65" y="780" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="800" style="font-family:courier; white-space: pre">
+         40
+        </text>
+        
+        <text x="65" y="800" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;100&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="820" style="font-family:courier; white-space: pre">
+         41
+        </text>
+        
+        <text x="65" y="820" style="font-family:courier; white-space: pre">
+                  5
+        </text>
+
+        
+        <text x="20" y="840" style="font-family:courier; white-space: pre">
+         42
+        </text>
+        
+        <text x="65" y="840" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="860" style="font-family:courier; white-space: pre">
+         43
+        </text>
+        
+        <text x="65" y="860" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="880" style="font-family:courier; white-space: pre">
+         44
+        </text>
+        
+        <text x="65" y="880" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;100&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="900" style="font-family:courier; white-space: pre">
+         45
+        </text>
+        
+        <text x="65" y="900" style="font-family:courier; white-space: pre">
+                import { readDirectory, readFile } from &amp;apos;./fs&amp;apos;;
+        </text>
+
+        
+        <text x="20" y="920" style="font-family:courier; white-space: pre">
+         46
+        </text>
+        
+        <text x="65" y="920" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="940" style="font-family:courier; white-space: pre">
+         47
+        </text>
+        
+        <text x="65" y="940" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="960" style="font-family:courier; white-space: pre">
+         48
+        </text>
+        
+        <text x="65" y="960" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="980" style="font-family:courier; white-space: pre">
+         49
+        </text>
+        
+        <text x="65" y="980" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;120&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1000" style="font-family:courier; white-space: pre">
+         50
+        </text>
+        
+        <text x="65" y="1000" style="font-family:courier; white-space: pre">
+                  6
+        </text>
+
+        
+        <text x="20" y="1020" style="font-family:courier; white-space: pre">
+         51
+        </text>
+        
+        <text x="65" y="1020" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1040" style="font-family:courier; white-space: pre">
+         52
+        </text>
+        
+        <text x="65" y="1040" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1060" style="font-family:courier; white-space: pre">
+         53
+        </text>
+        
+        <text x="65" y="1060" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;120&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1080" style="font-family:courier; white-space: pre">
+         54
+        </text>
+        
+        <text x="65" y="1080" style="font-family:courier; white-space: pre">
+                import * as SVG from &amp;apos;./svg&amp;apos;;
+        </text>
+
+        
+        <text x="20" y="1100" style="font-family:courier; white-space: pre">
+         55
+        </text>
+        
+        <text x="65" y="1100" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1120" style="font-family:courier; white-space: pre">
+         56
+        </text>
+        
+        <text x="65" y="1120" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="1140" style="font-family:courier; white-space: pre">
+         57
+        </text>
+        
+        <text x="65" y="1140" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1160" style="font-family:courier; white-space: pre">
+         58
+        </text>
+        
+        <text x="65" y="1160" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;140&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1180" style="font-family:courier; white-space: pre">
+         59
+        </text>
+        
+        <text x="65" y="1180" style="font-family:courier; white-space: pre">
+                  7
+        </text>
+
+        
+        <text x="20" y="1200" style="font-family:courier; white-space: pre">
+         60
+        </text>
+        
+        <text x="65" y="1200" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1220" style="font-family:courier; white-space: pre">
+         61
+        </text>
+        
+        <text x="65" y="1220" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1240" style="font-family:courier; white-space: pre">
+         62
+        </text>
+        
+        <text x="65" y="1240" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;140&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1260" style="font-family:courier; white-space: pre">
+         63
+        </text>
+        
+        <text x="65" y="1260" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1280" style="font-family:courier; white-space: pre">
+         64
+        </text>
+        
+        <text x="65" y="1280" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1300" style="font-family:courier; white-space: pre">
+         65
+        </text>
+        
+        <text x="65" y="1300" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="1320" style="font-family:courier; white-space: pre">
+         66
+        </text>
+        
+        <text x="65" y="1320" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1340" style="font-family:courier; white-space: pre">
+         67
+        </text>
+        
+        <text x="65" y="1340" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;160&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1360" style="font-family:courier; white-space: pre">
+         68
+        </text>
+        
+        <text x="65" y="1360" style="font-family:courier; white-space: pre">
+                  8
+        </text>
+
+        
+        <text x="20" y="1380" style="font-family:courier; white-space: pre">
+         69
+        </text>
+        
+        <text x="65" y="1380" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1400" style="font-family:courier; white-space: pre">
+         70
+        </text>
+        
+        <text x="65" y="1400" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1420" style="font-family:courier; white-space: pre">
+         71
+        </text>
+        
+        <text x="65" y="1420" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;160&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1440" style="font-family:courier; white-space: pre">
+         72
+        </text>
+        
+        <text x="65" y="1440" style="font-family:courier; white-space: pre">
+                export const init = (config: Configuration) =&amp;gt; {
+        </text>
+
+        
+        <text x="20" y="1460" style="font-family:courier; white-space: pre">
+         73
+        </text>
+        
+        <text x="65" y="1460" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1480" style="font-family:courier; white-space: pre">
+         74
+        </text>
+        
+        <text x="65" y="1480" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="1500" style="font-family:courier; white-space: pre">
+         75
+        </text>
+        
+        <text x="65" y="1500" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1520" style="font-family:courier; white-space: pre">
+         76
+        </text>
+        
+        <text x="65" y="1520" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;180&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1540" style="font-family:courier; white-space: pre">
+         77
+        </text>
+        
+        <text x="65" y="1540" style="font-family:courier; white-space: pre">
+                  9
+        </text>
+
+        
+        <text x="20" y="1560" style="font-family:courier; white-space: pre">
+         78
+        </text>
+        
+        <text x="65" y="1560" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1580" style="font-family:courier; white-space: pre">
+         79
+        </text>
+        
+        <text x="65" y="1580" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1600" style="font-family:courier; white-space: pre">
+         80
+        </text>
+        
+        <text x="65" y="1600" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;180&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1620" style="font-family:courier; white-space: pre">
+         81
+        </text>
+        
+        <text x="65" y="1620" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1640" style="font-family:courier; white-space: pre">
+         82
+        </text>
+        
+        <text x="65" y="1640" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1660" style="font-family:courier; white-space: pre">
+         83
+        </text>
+        
+        <text x="65" y="1660" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="1680" style="font-family:courier; white-space: pre">
+         84
+        </text>
+        
+        <text x="65" y="1680" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1700" style="font-family:courier; white-space: pre">
+         85
+        </text>
+        
+        <text x="65" y="1700" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;200&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1720" style="font-family:courier; white-space: pre">
+         86
+        </text>
+        
+        <text x="65" y="1720" style="font-family:courier; white-space: pre">
+                 10
+        </text>
+
+        
+        <text x="20" y="1740" style="font-family:courier; white-space: pre">
+         87
+        </text>
+        
+        <text x="65" y="1740" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1760" style="font-family:courier; white-space: pre">
+         88
+        </text>
+        
+        <text x="65" y="1760" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1780" style="font-family:courier; white-space: pre">
+         89
+        </text>
+        
+        <text x="65" y="1780" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;200&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1800" style="font-family:courier; white-space: pre">
+         90
+        </text>
+        
+        <text x="65" y="1800" style="font-family:courier; white-space: pre">
+                    const { maxParallelism, dirpath } = config;
+        </text>
+
+        
+        <text x="20" y="1820" style="font-family:courier; white-space: pre">
+         91
+        </text>
+        
+        <text x="65" y="1820" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1840" style="font-family:courier; white-space: pre">
+         92
+        </text>
+        
+        <text x="65" y="1840" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="1860" style="font-family:courier; white-space: pre">
+         93
+        </text>
+        
+        <text x="65" y="1860" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1880" style="font-family:courier; white-space: pre">
+         94
+        </text>
+        
+        <text x="65" y="1880" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;220&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1900" style="font-family:courier; white-space: pre">
+         95
+        </text>
+        
+        <text x="65" y="1900" style="font-family:courier; white-space: pre">
+                 11
+        </text>
+
+        
+        <text x="20" y="1920" style="font-family:courier; white-space: pre">
+         96
+        </text>
+        
+        <text x="65" y="1920" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="1940" style="font-family:courier; white-space: pre">
+         97
+        </text>
+        
+        <text x="65" y="1940" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="1960" style="font-family:courier; white-space: pre">
+         98
+        </text>
+        
+        <text x="65" y="1960" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;220&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="1980" style="font-family:courier; white-space: pre">
+         99
+        </text>
+        
+        <text x="65" y="1980" style="font-family:courier; white-space: pre">
+                    const { createSvg, saveSvg } = SVG.init(config);
+        </text>
+
+        
+        <text x="20" y="2000" style="font-family:courier; white-space: pre">
+        100
+        </text>
+        
+        <text x="65" y="2000" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2020" style="font-family:courier; white-space: pre">
+        101
+        </text>
+        
+        <text x="65" y="2020" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="2040" style="font-family:courier; white-space: pre">
+        102
+        </text>
+        
+        <text x="65" y="2040" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2060" style="font-family:courier; white-space: pre">
+        103
+        </text>
+        
+        <text x="65" y="2060" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;240&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2080" style="font-family:courier; white-space: pre">
+        104
+        </text>
+        
+        <text x="65" y="2080" style="font-family:courier; white-space: pre">
+                 12
+        </text>
+
+        
+        <text x="20" y="2100" style="font-family:courier; white-space: pre">
+        105
+        </text>
+        
+        <text x="65" y="2100" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2120" style="font-family:courier; white-space: pre">
+        106
+        </text>
+        
+        <text x="65" y="2120" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2140" style="font-family:courier; white-space: pre">
+        107
+        </text>
+        
+        <text x="65" y="2140" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;240&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2160" style="font-family:courier; white-space: pre">
+        108
+        </text>
+        
+        <text x="65" y="2160" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2180" style="font-family:courier; white-space: pre">
+        109
+        </text>
+        
+        <text x="65" y="2180" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2200" style="font-family:courier; white-space: pre">
+        110
+        </text>
+        
+        <text x="65" y="2200" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="2220" style="font-family:courier; white-space: pre">
+        111
+        </text>
+        
+        <text x="65" y="2220" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2240" style="font-family:courier; white-space: pre">
+        112
+        </text>
+        
+        <text x="65" y="2240" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;260&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2260" style="font-family:courier; white-space: pre">
+        113
+        </text>
+        
+        <text x="65" y="2260" style="font-family:courier; white-space: pre">
+                 13
+        </text>
+
+        
+        <text x="20" y="2280" style="font-family:courier; white-space: pre">
+        114
+        </text>
+        
+        <text x="65" y="2280" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2300" style="font-family:courier; white-space: pre">
+        115
+        </text>
+        
+        <text x="65" y="2300" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2320" style="font-family:courier; white-space: pre">
+        116
+        </text>
+        
+        <text x="65" y="2320" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;260&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2340" style="font-family:courier; white-space: pre">
+        117
+        </text>
+        
+        <text x="65" y="2340" style="font-family:courier; white-space: pre">
+                    const convertFile = (filename: string) =&amp;gt;
+        </text>
+
+        
+        <text x="20" y="2360" style="font-family:courier; white-space: pre">
+        118
+        </text>
+        
+        <text x="65" y="2360" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2380" style="font-family:courier; white-space: pre">
+        119
+        </text>
+        
+        <text x="65" y="2380" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="2400" style="font-family:courier; white-space: pre">
+        120
+        </text>
+        
+        <text x="65" y="2400" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2420" style="font-family:courier; white-space: pre">
+        121
+        </text>
+        
+        <text x="65" y="2420" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;280&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2440" style="font-family:courier; white-space: pre">
+        122
+        </text>
+        
+        <text x="65" y="2440" style="font-family:courier; white-space: pre">
+                 14
+        </text>
+
+        
+        <text x="20" y="2460" style="font-family:courier; white-space: pre">
+        123
+        </text>
+        
+        <text x="65" y="2460" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2480" style="font-family:courier; white-space: pre">
+        124
+        </text>
+        
+        <text x="65" y="2480" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2500" style="font-family:courier; white-space: pre">
+        125
+        </text>
+        
+        <text x="65" y="2500" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;280&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2520" style="font-family:courier; white-space: pre">
+        126
+        </text>
+        
+        <text x="65" y="2520" style="font-family:courier; white-space: pre">
+                        readFile(filename)
+        </text>
+
+        
+        <text x="20" y="2540" style="font-family:courier; white-space: pre">
+        127
+        </text>
+        
+        <text x="65" y="2540" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2560" style="font-family:courier; white-space: pre">
+        128
+        </text>
+        
+        <text x="65" y="2560" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="2580" style="font-family:courier; white-space: pre">
+        129
+        </text>
+        
+        <text x="65" y="2580" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2600" style="font-family:courier; white-space: pre">
+        130
+        </text>
+        
+        <text x="65" y="2600" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;300&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2620" style="font-family:courier; white-space: pre">
+        131
+        </text>
+        
+        <text x="65" y="2620" style="font-family:courier; white-space: pre">
+                 15
+        </text>
+
+        
+        <text x="20" y="2640" style="font-family:courier; white-space: pre">
+        132
+        </text>
+        
+        <text x="65" y="2640" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2660" style="font-family:courier; white-space: pre">
+        133
+        </text>
+        
+        <text x="65" y="2660" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2680" style="font-family:courier; white-space: pre">
+        134
+        </text>
+        
+        <text x="65" y="2680" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;300&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2700" style="font-family:courier; white-space: pre">
+        135
+        </text>
+        
+        <text x="65" y="2700" style="font-family:courier; white-space: pre">
+                            .map(R.tap(() =&amp;gt; console.log(`opening ${filename}`)))
+        </text>
+
+        
+        <text x="20" y="2720" style="font-family:courier; white-space: pre">
+        136
+        </text>
+        
+        <text x="65" y="2720" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2740" style="font-family:courier; white-space: pre">
+        137
+        </text>
+        
+        <text x="65" y="2740" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="2760" style="font-family:courier; white-space: pre">
+        138
+        </text>
+        
+        <text x="65" y="2760" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2780" style="font-family:courier; white-space: pre">
+        139
+        </text>
+        
+        <text x="65" y="2780" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;320&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2800" style="font-family:courier; white-space: pre">
+        140
+        </text>
+        
+        <text x="65" y="2800" style="font-family:courier; white-space: pre">
+                 16
+        </text>
+
+        
+        <text x="20" y="2820" style="font-family:courier; white-space: pre">
+        141
+        </text>
+        
+        <text x="65" y="2820" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2840" style="font-family:courier; white-space: pre">
+        142
+        </text>
+        
+        <text x="65" y="2840" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2860" style="font-family:courier; white-space: pre">
+        143
+        </text>
+        
+        <text x="65" y="2860" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;320&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2880" style="font-family:courier; white-space: pre">
+        144
+        </text>
+        
+        <text x="65" y="2880" style="font-family:courier; white-space: pre">
+                            .map(createSvg as any)
+        </text>
+
+        
+        <text x="20" y="2900" style="font-family:courier; white-space: pre">
+        145
+        </text>
+        
+        <text x="65" y="2900" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="2920" style="font-family:courier; white-space: pre">
+        146
+        </text>
+        
+        <text x="65" y="2920" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="2940" style="font-family:courier; white-space: pre">
+        147
+        </text>
+        
+        <text x="65" y="2940" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="2960" style="font-family:courier; white-space: pre">
+        148
+        </text>
+        
+        <text x="65" y="2960" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;340&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="2980" style="font-family:courier; white-space: pre">
+        149
+        </text>
+        
+        <text x="65" y="2980" style="font-family:courier; white-space: pre">
+                 17
+        </text>
+
+        
+        <text x="20" y="3000" style="font-family:courier; white-space: pre">
+        150
+        </text>
+        
+        <text x="65" y="3000" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3020" style="font-family:courier; white-space: pre">
+        151
+        </text>
+        
+        <text x="65" y="3020" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3040" style="font-family:courier; white-space: pre">
+        152
+        </text>
+        
+        <text x="65" y="3040" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;340&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3060" style="font-family:courier; white-space: pre">
+        153
+        </text>
+        
+        <text x="65" y="3060" style="font-family:courier; white-space: pre">
+                            .chain(saveSvg(filename))
+        </text>
+
+        
+        <text x="20" y="3080" style="font-family:courier; white-space: pre">
+        154
+        </text>
+        
+        <text x="65" y="3080" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3100" style="font-family:courier; white-space: pre">
+        155
+        </text>
+        
+        <text x="65" y="3100" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="3120" style="font-family:courier; white-space: pre">
+        156
+        </text>
+        
+        <text x="65" y="3120" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3140" style="font-family:courier; white-space: pre">
+        157
+        </text>
+        
+        <text x="65" y="3140" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;360&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3160" style="font-family:courier; white-space: pre">
+        158
+        </text>
+        
+        <text x="65" y="3160" style="font-family:courier; white-space: pre">
+                 18
+        </text>
+
+        
+        <text x="20" y="3180" style="font-family:courier; white-space: pre">
+        159
+        </text>
+        
+        <text x="65" y="3180" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3200" style="font-family:courier; white-space: pre">
+        160
+        </text>
+        
+        <text x="65" y="3200" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3220" style="font-family:courier; white-space: pre">
+        161
+        </text>
+        
+        <text x="65" y="3220" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;360&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3240" style="font-family:courier; white-space: pre">
+        162
+        </text>
+        
+        <text x="65" y="3240" style="font-family:courier; white-space: pre">
+                            .bimap(
+        </text>
+
+        
+        <text x="20" y="3260" style="font-family:courier; white-space: pre">
+        163
+        </text>
+        
+        <text x="65" y="3260" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3280" style="font-family:courier; white-space: pre">
+        164
+        </text>
+        
+        <text x="65" y="3280" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="3300" style="font-family:courier; white-space: pre">
+        165
+        </text>
+        
+        <text x="65" y="3300" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3320" style="font-family:courier; white-space: pre">
+        166
+        </text>
+        
+        <text x="65" y="3320" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;380&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3340" style="font-family:courier; white-space: pre">
+        167
+        </text>
+        
+        <text x="65" y="3340" style="font-family:courier; white-space: pre">
+                 19
+        </text>
+
+        
+        <text x="20" y="3360" style="font-family:courier; white-space: pre">
+        168
+        </text>
+        
+        <text x="65" y="3360" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3380" style="font-family:courier; white-space: pre">
+        169
+        </text>
+        
+        <text x="65" y="3380" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3400" style="font-family:courier; white-space: pre">
+        170
+        </text>
+        
+        <text x="65" y="3400" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;380&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3420" style="font-family:courier; white-space: pre">
+        171
+        </text>
+        
+        <text x="65" y="3420" style="font-family:courier; white-space: pre">
+                                R.tap(() =&amp;gt; console.log(`failed to save ${filename}.svg`)),
+        </text>
+
+        
+        <text x="20" y="3440" style="font-family:courier; white-space: pre">
+        172
+        </text>
+        
+        <text x="65" y="3440" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3460" style="font-family:courier; white-space: pre">
+        173
+        </text>
+        
+        <text x="65" y="3460" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="3480" style="font-family:courier; white-space: pre">
+        174
+        </text>
+        
+        <text x="65" y="3480" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3500" style="font-family:courier; white-space: pre">
+        175
+        </text>
+        
+        <text x="65" y="3500" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;400&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3520" style="font-family:courier; white-space: pre">
+        176
+        </text>
+        
+        <text x="65" y="3520" style="font-family:courier; white-space: pre">
+                 20
+        </text>
+
+        
+        <text x="20" y="3540" style="font-family:courier; white-space: pre">
+        177
+        </text>
+        
+        <text x="65" y="3540" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3560" style="font-family:courier; white-space: pre">
+        178
+        </text>
+        
+        <text x="65" y="3560" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3580" style="font-family:courier; white-space: pre">
+        179
+        </text>
+        
+        <text x="65" y="3580" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;400&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3600" style="font-family:courier; white-space: pre">
+        180
+        </text>
+        
+        <text x="65" y="3600" style="font-family:courier; white-space: pre">
+                                R.tap(() =&amp;gt; console.log(`saved ${filename}.svg`)),
+        </text>
+
+        
+        <text x="20" y="3620" style="font-family:courier; white-space: pre">
+        181
+        </text>
+        
+        <text x="65" y="3620" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3640" style="font-family:courier; white-space: pre">
+        182
+        </text>
+        
+        <text x="65" y="3640" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="3660" style="font-family:courier; white-space: pre">
+        183
+        </text>
+        
+        <text x="65" y="3660" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3680" style="font-family:courier; white-space: pre">
+        184
+        </text>
+        
+        <text x="65" y="3680" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;420&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3700" style="font-family:courier; white-space: pre">
+        185
+        </text>
+        
+        <text x="65" y="3700" style="font-family:courier; white-space: pre">
+                 21
+        </text>
+
+        
+        <text x="20" y="3720" style="font-family:courier; white-space: pre">
+        186
+        </text>
+        
+        <text x="65" y="3720" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3740" style="font-family:courier; white-space: pre">
+        187
+        </text>
+        
+        <text x="65" y="3740" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3760" style="font-family:courier; white-space: pre">
+        188
+        </text>
+        
+        <text x="65" y="3760" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;420&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3780" style="font-family:courier; white-space: pre">
+        189
+        </text>
+        
+        <text x="65" y="3780" style="font-family:courier; white-space: pre">
+                            );
+        </text>
+
+        
+        <text x="20" y="3800" style="font-family:courier; white-space: pre">
+        190
+        </text>
+        
+        <text x="65" y="3800" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3820" style="font-family:courier; white-space: pre">
+        191
+        </text>
+        
+        <text x="65" y="3820" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="3840" style="font-family:courier; white-space: pre">
+        192
+        </text>
+        
+        <text x="65" y="3840" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3860" style="font-family:courier; white-space: pre">
+        193
+        </text>
+        
+        <text x="65" y="3860" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;440&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3880" style="font-family:courier; white-space: pre">
+        194
+        </text>
+        
+        <text x="65" y="3880" style="font-family:courier; white-space: pre">
+                 22
+        </text>
+
+        
+        <text x="20" y="3900" style="font-family:courier; white-space: pre">
+        195
+        </text>
+        
+        <text x="65" y="3900" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="3920" style="font-family:courier; white-space: pre">
+        196
+        </text>
+        
+        <text x="65" y="3920" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3940" style="font-family:courier; white-space: pre">
+        197
+        </text>
+        
+        <text x="65" y="3940" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;440&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="3960" style="font-family:courier; white-space: pre">
+        198
+        </text>
+        
+        <text x="65" y="3960" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="3980" style="font-family:courier; white-space: pre">
+        199
+        </text>
+        
+        <text x="65" y="3980" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4000" style="font-family:courier; white-space: pre">
+        200
+        </text>
+        
+        <text x="65" y="4000" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="4020" style="font-family:courier; white-space: pre">
+        201
+        </text>
+        
+        <text x="65" y="4020" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4040" style="font-family:courier; white-space: pre">
+        202
+        </text>
+        
+        <text x="65" y="4040" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;460&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4060" style="font-family:courier; white-space: pre">
+        203
+        </text>
+        
+        <text x="65" y="4060" style="font-family:courier; white-space: pre">
+                 23
+        </text>
+
+        
+        <text x="20" y="4080" style="font-family:courier; white-space: pre">
+        204
+        </text>
+        
+        <text x="65" y="4080" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4100" style="font-family:courier; white-space: pre">
+        205
+        </text>
+        
+        <text x="65" y="4100" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4120" style="font-family:courier; white-space: pre">
+        206
+        </text>
+        
+        <text x="65" y="4120" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;460&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4140" style="font-family:courier; white-space: pre">
+        207
+        </text>
+        
+        <text x="65" y="4140" style="font-family:courier; white-space: pre">
+                    const createFilepath = (name: string) =&amp;gt; dirpath + &amp;apos;/&amp;apos; + name;
+        </text>
+
+        
+        <text x="20" y="4160" style="font-family:courier; white-space: pre">
+        208
+        </text>
+        
+        <text x="65" y="4160" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4180" style="font-family:courier; white-space: pre">
+        209
+        </text>
+        
+        <text x="65" y="4180" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="4200" style="font-family:courier; white-space: pre">
+        210
+        </text>
+        
+        <text x="65" y="4200" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4220" style="font-family:courier; white-space: pre">
+        211
+        </text>
+        
+        <text x="65" y="4220" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;480&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4240" style="font-family:courier; white-space: pre">
+        212
+        </text>
+        
+        <text x="65" y="4240" style="font-family:courier; white-space: pre">
+                 24
+        </text>
+
+        
+        <text x="20" y="4260" style="font-family:courier; white-space: pre">
+        213
+        </text>
+        
+        <text x="65" y="4260" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4280" style="font-family:courier; white-space: pre">
+        214
+        </text>
+        
+        <text x="65" y="4280" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4300" style="font-family:courier; white-space: pre">
+        215
+        </text>
+        
+        <text x="65" y="4300" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;480&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4320" style="font-family:courier; white-space: pre">
+        216
+        </text>
+        
+        <text x="65" y="4320" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4340" style="font-family:courier; white-space: pre">
+        217
+        </text>
+        
+        <text x="65" y="4340" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4360" style="font-family:courier; white-space: pre">
+        218
+        </text>
+        
+        <text x="65" y="4360" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="4380" style="font-family:courier; white-space: pre">
+        219
+        </text>
+        
+        <text x="65" y="4380" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4400" style="font-family:courier; white-space: pre">
+        220
+        </text>
+        
+        <text x="65" y="4400" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;500&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4420" style="font-family:courier; white-space: pre">
+        221
+        </text>
+        
+        <text x="65" y="4420" style="font-family:courier; white-space: pre">
+                 25
+        </text>
+
+        
+        <text x="20" y="4440" style="font-family:courier; white-space: pre">
+        222
+        </text>
+        
+        <text x="65" y="4440" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4460" style="font-family:courier; white-space: pre">
+        223
+        </text>
+        
+        <text x="65" y="4460" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4480" style="font-family:courier; white-space: pre">
+        224
+        </text>
+        
+        <text x="65" y="4480" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;500&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4500" style="font-family:courier; white-space: pre">
+        225
+        </text>
+        
+        <text x="65" y="4500" style="font-family:courier; white-space: pre">
+                    const convertFiles = (filepaths: string[]) =&amp;gt;
+        </text>
+
+        
+        <text x="20" y="4520" style="font-family:courier; white-space: pre">
+        226
+        </text>
+        
+        <text x="65" y="4520" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4540" style="font-family:courier; white-space: pre">
+        227
+        </text>
+        
+        <text x="65" y="4540" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="4560" style="font-family:courier; white-space: pre">
+        228
+        </text>
+        
+        <text x="65" y="4560" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4580" style="font-family:courier; white-space: pre">
+        229
+        </text>
+        
+        <text x="65" y="4580" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;520&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4600" style="font-family:courier; white-space: pre">
+        230
+        </text>
+        
+        <text x="65" y="4600" style="font-family:courier; white-space: pre">
+                 26
+        </text>
+
+        
+        <text x="20" y="4620" style="font-family:courier; white-space: pre">
+        231
+        </text>
+        
+        <text x="65" y="4620" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4640" style="font-family:courier; white-space: pre">
+        232
+        </text>
+        
+        <text x="65" y="4640" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4660" style="font-family:courier; white-space: pre">
+        233
+        </text>
+        
+        <text x="65" y="4660" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;520&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4680" style="font-family:courier; white-space: pre">
+        234
+        </text>
+        
+        <text x="65" y="4680" style="font-family:courier; white-space: pre">
+                        Future.parallel(maxParallelism, R.map(convertFile, filepaths));
+        </text>
+
+        
+        <text x="20" y="4700" style="font-family:courier; white-space: pre">
+        235
+        </text>
+        
+        <text x="65" y="4700" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4720" style="font-family:courier; white-space: pre">
+        236
+        </text>
+        
+        <text x="65" y="4720" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="4740" style="font-family:courier; white-space: pre">
+        237
+        </text>
+        
+        <text x="65" y="4740" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4760" style="font-family:courier; white-space: pre">
+        238
+        </text>
+        
+        <text x="65" y="4760" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;540&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4780" style="font-family:courier; white-space: pre">
+        239
+        </text>
+        
+        <text x="65" y="4780" style="font-family:courier; white-space: pre">
+                 27
+        </text>
+
+        
+        <text x="20" y="4800" style="font-family:courier; white-space: pre">
+        240
+        </text>
+        
+        <text x="65" y="4800" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4820" style="font-family:courier; white-space: pre">
+        241
+        </text>
+        
+        <text x="65" y="4820" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4840" style="font-family:courier; white-space: pre">
+        242
+        </text>
+        
+        <text x="65" y="4840" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;540&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4860" style="font-family:courier; white-space: pre">
+        243
+        </text>
+        
+        <text x="65" y="4860" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4880" style="font-family:courier; white-space: pre">
+        244
+        </text>
+        
+        <text x="65" y="4880" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="4900" style="font-family:courier; white-space: pre">
+        245
+        </text>
+        
+        <text x="65" y="4900" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="4920" style="font-family:courier; white-space: pre">
+        246
+        </text>
+        
+        <text x="65" y="4920" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="4940" style="font-family:courier; white-space: pre">
+        247
+        </text>
+        
+        <text x="65" y="4940" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;560&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="4960" style="font-family:courier; white-space: pre">
+        248
+        </text>
+        
+        <text x="65" y="4960" style="font-family:courier; white-space: pre">
+                 28
+        </text>
+
+        
+        <text x="20" y="4980" style="font-family:courier; white-space: pre">
+        249
+        </text>
+        
+        <text x="65" y="4980" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5000" style="font-family:courier; white-space: pre">
+        250
+        </text>
+        
+        <text x="65" y="5000" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5020" style="font-family:courier; white-space: pre">
+        251
+        </text>
+        
+        <text x="65" y="5020" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;560&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5040" style="font-family:courier; white-space: pre">
+        252
+        </text>
+        
+        <text x="65" y="5040" style="font-family:courier; white-space: pre">
+                    return {
+        </text>
+
+        
+        <text x="20" y="5060" style="font-family:courier; white-space: pre">
+        253
+        </text>
+        
+        <text x="65" y="5060" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5080" style="font-family:courier; white-space: pre">
+        254
+        </text>
+        
+        <text x="65" y="5080" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="5100" style="font-family:courier; white-space: pre">
+        255
+        </text>
+        
+        <text x="65" y="5100" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5120" style="font-family:courier; white-space: pre">
+        256
+        </text>
+        
+        <text x="65" y="5120" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;580&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5140" style="font-family:courier; white-space: pre">
+        257
+        </text>
+        
+        <text x="65" y="5140" style="font-family:courier; white-space: pre">
+                 29
+        </text>
+
+        
+        <text x="20" y="5160" style="font-family:courier; white-space: pre">
+        258
+        </text>
+        
+        <text x="65" y="5160" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5180" style="font-family:courier; white-space: pre">
+        259
+        </text>
+        
+        <text x="65" y="5180" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5200" style="font-family:courier; white-space: pre">
+        260
+        </text>
+        
+        <text x="65" y="5200" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;580&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5220" style="font-family:courier; white-space: pre">
+        261
+        </text>
+        
+        <text x="65" y="5220" style="font-family:courier; white-space: pre">
+                        convertDirectory: readDirectory(dirpath)
+        </text>
+
+        
+        <text x="20" y="5240" style="font-family:courier; white-space: pre">
+        262
+        </text>
+        
+        <text x="65" y="5240" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5260" style="font-family:courier; white-space: pre">
+        263
+        </text>
+        
+        <text x="65" y="5260" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="5280" style="font-family:courier; white-space: pre">
+        264
+        </text>
+        
+        <text x="65" y="5280" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5300" style="font-family:courier; white-space: pre">
+        265
+        </text>
+        
+        <text x="65" y="5300" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;600&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5320" style="font-family:courier; white-space: pre">
+        266
+        </text>
+        
+        <text x="65" y="5320" style="font-family:courier; white-space: pre">
+                 30
+        </text>
+
+        
+        <text x="20" y="5340" style="font-family:courier; white-space: pre">
+        267
+        </text>
+        
+        <text x="65" y="5340" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5360" style="font-family:courier; white-space: pre">
+        268
+        </text>
+        
+        <text x="65" y="5360" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5380" style="font-family:courier; white-space: pre">
+        269
+        </text>
+        
+        <text x="65" y="5380" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;600&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5400" style="font-family:courier; white-space: pre">
+        270
+        </text>
+        
+        <text x="65" y="5400" style="font-family:courier; white-space: pre">
+                            .map(R.map(createFilepath) as any)
+        </text>
+
+        
+        <text x="20" y="5420" style="font-family:courier; white-space: pre">
+        271
+        </text>
+        
+        <text x="65" y="5420" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5440" style="font-family:courier; white-space: pre">
+        272
+        </text>
+        
+        <text x="65" y="5440" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="5460" style="font-family:courier; white-space: pre">
+        273
+        </text>
+        
+        <text x="65" y="5460" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5480" style="font-family:courier; white-space: pre">
+        274
+        </text>
+        
+        <text x="65" y="5480" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;620&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5500" style="font-family:courier; white-space: pre">
+        275
+        </text>
+        
+        <text x="65" y="5500" style="font-family:courier; white-space: pre">
+                 31
+        </text>
+
+        
+        <text x="20" y="5520" style="font-family:courier; white-space: pre">
+        276
+        </text>
+        
+        <text x="65" y="5520" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5540" style="font-family:courier; white-space: pre">
+        277
+        </text>
+        
+        <text x="65" y="5540" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5560" style="font-family:courier; white-space: pre">
+        278
+        </text>
+        
+        <text x="65" y="5560" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;620&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5580" style="font-family:courier; white-space: pre">
+        279
+        </text>
+        
+        <text x="65" y="5580" style="font-family:courier; white-space: pre">
+                            .chain(convertFiles as any),
+        </text>
+
+        
+        <text x="20" y="5600" style="font-family:courier; white-space: pre">
+        280
+        </text>
+        
+        <text x="65" y="5600" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5620" style="font-family:courier; white-space: pre">
+        281
+        </text>
+        
+        <text x="65" y="5620" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="5640" style="font-family:courier; white-space: pre">
+        282
+        </text>
+        
+        <text x="65" y="5640" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5660" style="font-family:courier; white-space: pre">
+        283
+        </text>
+        
+        <text x="65" y="5660" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;640&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5680" style="font-family:courier; white-space: pre">
+        284
+        </text>
+        
+        <text x="65" y="5680" style="font-family:courier; white-space: pre">
+                 32
+        </text>
+
+        
+        <text x="20" y="5700" style="font-family:courier; white-space: pre">
+        285
+        </text>
+        
+        <text x="65" y="5700" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5720" style="font-family:courier; white-space: pre">
+        286
+        </text>
+        
+        <text x="65" y="5720" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5740" style="font-family:courier; white-space: pre">
+        287
+        </text>
+        
+        <text x="65" y="5740" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;640&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5760" style="font-family:courier; white-space: pre">
+        288
+        </text>
+        
+        <text x="65" y="5760" style="font-family:courier; white-space: pre">
+                    };
+        </text>
+
+        
+        <text x="20" y="5780" style="font-family:courier; white-space: pre">
+        289
+        </text>
+        
+        <text x="65" y="5780" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5800" style="font-family:courier; white-space: pre">
+        290
+        </text>
+        
+        <text x="65" y="5800" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="5820" style="font-family:courier; white-space: pre">
+        291
+        </text>
+        
+        <text x="65" y="5820" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5840" style="font-family:courier; white-space: pre">
+        292
+        </text>
+        
+        <text x="65" y="5840" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;660&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5860" style="font-family:courier; white-space: pre">
+        293
+        </text>
+        
+        <text x="65" y="5860" style="font-family:courier; white-space: pre">
+                 33
+        </text>
+
+        
+        <text x="20" y="5880" style="font-family:courier; white-space: pre">
+        294
+        </text>
+        
+        <text x="65" y="5880" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5900" style="font-family:courier; white-space: pre">
+        295
+        </text>
+        
+        <text x="65" y="5900" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5920" style="font-family:courier; white-space: pre">
+        296
+        </text>
+        
+        <text x="65" y="5920" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;660&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="5940" style="font-family:courier; white-space: pre">
+        297
+        </text>
+        
+        <text x="65" y="5940" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="5960" style="font-family:courier; white-space: pre">
+        298
+        </text>
+        
+        <text x="65" y="5960" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="5980" style="font-family:courier; white-space: pre">
+        299
+        </text>
+        
+        <text x="65" y="5980" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="6000" style="font-family:courier; white-space: pre">
+        300
+        </text>
+        
+        <text x="65" y="6000" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="6020" style="font-family:courier; white-space: pre">
+        301
+        </text>
+        
+        <text x="65" y="6020" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;680&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="6040" style="font-family:courier; white-space: pre">
+        302
+        </text>
+        
+        <text x="65" y="6040" style="font-family:courier; white-space: pre">
+                 34
+        </text>
+
+        
+        <text x="20" y="6060" style="font-family:courier; white-space: pre">
+        303
+        </text>
+        
+        <text x="65" y="6060" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="6080" style="font-family:courier; white-space: pre">
+        304
+        </text>
+        
+        <text x="65" y="6080" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="6100" style="font-family:courier; white-space: pre">
+        305
+        </text>
+        
+        <text x="65" y="6100" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;680&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="6120" style="font-family:courier; white-space: pre">
+        306
+        </text>
+        
+        <text x="65" y="6120" style="font-family:courier; white-space: pre">
+                };
+        </text>
+
+        
+        <text x="20" y="6140" style="font-family:courier; white-space: pre">
+        307
+        </text>
+        
+        <text x="65" y="6140" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="6160" style="font-family:courier; white-space: pre">
+        308
+        </text>
+        
+        <text x="65" y="6160" style="font-family:courier; white-space: pre">
+        
+        </text>
+
+        
+        <text x="20" y="6180" style="font-family:courier; white-space: pre">
+        309
+        </text>
+        
+        <text x="65" y="6180" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="6200" style="font-family:courier; white-space: pre">
+        310
+        </text>
+        
+        <text x="65" y="6200" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;20&quot; y=&quot;700&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="6220" style="font-family:courier; white-space: pre">
+        311
+        </text>
+        
+        <text x="65" y="6220" style="font-family:courier; white-space: pre">
+                 35
+        </text>
+
+        
+        <text x="20" y="6240" style="font-family:courier; white-space: pre">
+        312
+        </text>
+        
+        <text x="65" y="6240" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="6260" style="font-family:courier; white-space: pre">
+        313
+        </text>
+        
+        <text x="65" y="6260" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="6280" style="font-family:courier; white-space: pre">
+        314
+        </text>
+        
+        <text x="65" y="6280" style="font-family:courier; white-space: pre">
+                &lt;text x=&quot;65&quot; y=&quot;700&quot; style=&quot;font-family:courier; white-space: pre&quot;&gt;
+        </text>
+
+        
+        <text x="20" y="6300" style="font-family:courier; white-space: pre">
+        315
+        </text>
+        
+        <text x="65" y="6300" style="font-family:courier; white-space: pre">
+                
+        </text>
+
+        
+        <text x="20" y="6320" style="font-family:courier; white-space: pre">
+        316
+        </text>
+        
+        <text x="65" y="6320" style="font-family:courier; white-space: pre">
+                &lt;/text&gt;
+        </text>
+
+        
+        <text x="20" y="6340" style="font-family:courier; white-space: pre">
+        317
+        </text>
+        
+        <text x="65" y="6340" style="font-family:courier; white-space: pre">
+        &lt;/svg&gt;
+        </text>
+</svg>

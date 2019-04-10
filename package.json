@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
+    "visual": "depcruise --exclude '^node_modules' --output-type dot src | dot -T svg > deps.svg",
     "start": "node ./dist/bundle.js ./input"
   },
   "author": "",
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@types/node": "^11.13.2",
     "@types/ramda": "^0.26.6",
+    "dependency-cruiser": "^4.15.3",
     "ts-loader": "^5.3.3",
     "typescript": "^3.4.3",
     "webpack": "^4.29.6",

@@ -4,16 +4,16 @@ import { Maybe } from 'monet';
 import * as Convert from './converter';
 import { Configuration } from '../constants';
 
-export const createApp = (proc: NodeJS.Process, config: Configuration) => {
+export const init = (proc: NodeJS.Process, config: Configuration) => {
 
     const checkArgs = (argv: string[]) =>
-        argv.length < 3
+        argv.length < 2
             ? Maybe.none()
             : Maybe.of(argv);
 
     const createConverter = (argv: any) => Convert.init({
         ...config,
-        dirpath: argv[2],
+        dirpath: argv[2] || config.dirpath,
     });
 
     return Maybe.fromNull(proc)
